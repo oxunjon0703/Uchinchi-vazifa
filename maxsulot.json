@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "limon",
+    "miqdori": 10
+  },
+  {
+    "id": 2,
+    "name": "uzum",
+    "miqdori": 15
+  },
+  {
+    "id": 3,
+    "name": "qovun",
+    "miqdori": 20
+  },
+  {
+    "id": 4,
+    "name": "nok",
+    "miqdori": 12
+  }
+]
